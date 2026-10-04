@@ -66,3 +66,32 @@ csharp-lab3-oop/
 | `AssociateProfessor` | Похідний клас «Доцент» |
 | `IUniversity` | Інтерфейс з методами `AddTeacher` та `SearchByDepartment` |
 | `UniversityImpl` | Клас-сервіс, що реалізує інтерфейс і керує колекцією викладачів |
+
+
+## Запуск
+
+**Вимоги:** встановлений [.NET SDK](https://dotnet.microsoft.com/download).
+
+```bash
+# Клонування репозиторію
+git clone https://github.com/kskrasssss/csharp-lab3-oop.git
+cd csharp-lab3-oop
+
+# Запуск потрібного завдання
+dotnet run --project Task1_Matrix
+dotnet run --project Task2_Book
+dotnet run --project Task3_Students
+dotnet run --project Task4_University
+```
+
+## Автор
+
+**<Краснікова Катерина Євгенівна>**
+Студентка 2 курсу, група <номер групи>
+<Назва університету>, <рік>
+
+---
+
+<div align="center">
+<sub>Лабораторна робота виконана в навчальних цілях</sub>
+</div>
