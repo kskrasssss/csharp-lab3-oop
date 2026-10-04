@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Task1_Matrix/Task1_Matrix.csproj" />
+  <Project Path="Task2_Book/Task2_Book.csproj" />
+  <Project Path="Task3_Students/Task3_Students.csproj" />
+  <Project Path="Task4_University/Task4_University.csproj" />
+</Solution>
