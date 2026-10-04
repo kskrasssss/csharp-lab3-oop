@@ -18,5 +18,17 @@ namespace Lab3Task3
 
             
         }
+
+        // Введення даних для контрактника
+    //         Console.WriteLine("--- Студент-контрактник ---");
+    //         Console.Write("ПІБ: ");
+    //         string name2 = Console.ReadLine();
+    //         Console.Write("Курс: ");
+    //         int course2 = int.Parse(Console.ReadLine());
+    //         Console.Write("Мін. оцінка: ");
+    //         int grade2 = int.Parse(Console.ReadLine());
+    //         Console.Write("Контракт сплачено? (true/false): ");
+    //         bool paid = bool.Parse(Console.ReadLine());
+    //         ContractStudent contract = new ContractStudent(name2, course2, grade2, paid);
     }
 }
