@@ -24,7 +24,7 @@ namespace Lab3Task3
 
         ~PostGraduate()
         {
-            Console.WriteLine("Лабораторна робота виконана студентом 2 курсу Прізвище Ім'я По батькові");
+            Console.WriteLine("Лабораторна робота виконана студентом 2 курсу Краснікова Катерина Євгенівна");
         }
 
         public void SetSupervisor(string newSupervisor)
